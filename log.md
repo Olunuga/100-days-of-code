@@ -13,6 +13,4 @@ I got thinking :thinking:  on how to go about it, then luckily i had little back
 **Thoughts:** Though i knew jumping onto keyboard when you have a task at hand is not always the right thing to do, but i have always broke that rule. But on a long run it pays more. 
 
 
-**Link to tweet:** [Olunu Day 1](https://twitter.com/MightyJoeW/status/827548443614859264)
-
 **Link to work:** [Roman numeral converter (freecodecamp link)](https://www.freecodecamp.org/challenges/roman-numeral-converter)
