@@ -14,3 +14,23 @@ I got thinking :thinking:  on how to go about it, then luckily i had little back
 
 
 **Link to work:** [Roman numeral converter (freecodecamp link)](https://www.freecodecamp.org/challenges/roman-numeral-converter)
+
+<h2 align="center">
+Day 2: Sunday Jan 7, 2018
+</h2>   
+
+**Today's Progress**: Finished the 'Wherefore art thou' algorithm.
+<div>
+<img src = "https://pbs.twimg.com/media/DS8FPYGWkAACHo2.jpg:large"></img>
+</div>
+
+**learnt about** 
+- Object
+- Object.prototype.hasOwnProperty()
+- Object.keys()
+
+
+**Thoughts:** This was a liitle bit tricky, though i got the algorithm right on paper (or thought i already did :smile:), The algorithm worked differenlty than i expected.. 
+
+
+**Link to work:** [WhereFor art thou (freecodecamp link)](https://www.freecodecamp.org/challenges/wherefore-art-thou)
