@@ -34,3 +34,23 @@ Day 2: Sunday Jan 7, 2018
 
 
 **Link to work:** [WhereFor art thou (freecodecamp link)](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+
+<h2 align="center">
+Day 3: Monday Jan 8, 2018
+</h2>   
+
+**Today's Progress**: Finished the 'Search and replace' algorithm.
+<div>
+<img src = "https://pbs.twimg.com/media/DS_4Ei5W4AAtodv.jpg:large"></img>
+</div>
+
+**learnt about** 
+- Array.prototype.splice();
+- Array.prototype.split()
+- Array.prototype.join()
+
+
+**Thoughts:** Hmm.. :thinking: today, search and replace was simple, but the making sure the case are the same made me spend more time. In the end it is about your analytical thinking. 
+
+
+**Link to work:** [Search and replace (freecodecamp link)](https://www.freecodecamp.org/challenges/search-and-replace)
