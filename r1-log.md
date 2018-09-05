@@ -1,10 +1,22 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Mayowa]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [September 5, Wednesday, 2018].
 
 ## Log
+Continuing the ios weda app project i started in Auguts. Would be updating the progress here on wards for the challenge.
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+<h2 align="center">
+R1-Day 1: September 5, Wednesday, 2018
+</h2>   
 
-### R1D2
+**Today's Progress**: Handled UITable view when data is empty. Tried using tableview.backgroundview but ended up using a UIView as the background and setting its visibility as needed. 
+Had issues after removing pod files from my git repository (error with RealmSwift), solved it by deleting the project derived files in xcode directory.
+
+**learnt about** 
+- Tableview backgroundview 
+- Updating a FORKED project with upstream code.
+
+**Thoughts:** Feels good to start commiting to coding again.
+
+
+**Link to work:** [Todays commits](https://github.com/Olunuga/weda-ios/tree/431349354d8c7c3516e7c888cb7257d16f8c1a7a)
