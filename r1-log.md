@@ -19,4 +19,4 @@ Had issues after removing pod files from my git repository (error with RealmSwif
 **Thoughts:** Feels good to start commiting to coding again.
 
 
-**Link to work:** [Todays commits](https://github.com/Olunuga/weda-ios/tree/431349354d8c7c3516e7c888cb7257d16f8c1a7a)
+**Link to work:** [Link to tweet](https://twitter.com/myorwah/status/1037281957737111555)
