@@ -3,7 +3,7 @@
 The log of my #100DaysOfCode challenge. Started on [September 5, Wednesday, 2018].
 
 ## Log
-Continuing the ios weda app project i started in Auguts. Would be updating the progress here on wards for the challenge.
+Continuing the ios weda app project i started in August 2018. Would be updating the progress here on wards for the challenge.
 
 <h2 align="center">
 R1-Day 1: September 5, Wednesday, 2018
