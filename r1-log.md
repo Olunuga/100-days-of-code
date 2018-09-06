@@ -20,3 +20,17 @@ Had issues after removing pod files from my git repository (error with RealmSwif
 
 
 **Link to work:** [Link to tweet](https://twitter.com/myorwah/status/1037281957737111555)
+
+<h2 align="center">
+R1-Day 2: September 6, Wednesday, 2018
+</h2>   
+
+**Today's Progress**: Added logic to handle location service scenarios such as when it is enabled or disabled, or when location service is denied for the app. Got it to work at first but introduced some bugs, and was also having issues with UIlabel wrapping in auto layout  
+
+**learnt about** 
+- Opening=ing Appplication preferences : setting from within the app
+
+**Thoughts:** Was frustrated today though cause of unexpected bugs.
+
+
+**Link to work:** [Link to tweet](https://twitter.com/myorwah/status/1037574801534148608)
