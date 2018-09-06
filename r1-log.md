@@ -28,7 +28,7 @@ R1-Day 2: September 6, Wednesday, 2018
 **Today's Progress**: Added logic to handle location service scenarios such as when it is enabled or disabled, or when location service is denied for the app. Got it to work at first but introduced some bugs, and was also having issues with UIlabel wrapping in auto layout  
 
 **learnt about** 
-- Opening=ing Appplication preferences : setting from within the app
+- Openinging Appplication preferences : setting from within the app
 
 **Thoughts:** Was frustrated today though cause of unexpected bugs.
 
