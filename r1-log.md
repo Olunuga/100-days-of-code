@@ -19,7 +19,7 @@ Had issues after removing pod files from my git repository (error with RealmSwif
 **Thoughts:** Feels good to start commiting to coding again.
 
 
-**Link to work:** [Link to tweet](https://twitter.com/myorwah/status/1037281957737111555)
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1037281957737111555)
 
 <h2 align="center">
 R1-Day 2: September 6, Wednesday, 2018
@@ -33,4 +33,20 @@ R1-Day 2: September 6, Wednesday, 2018
 **Thoughts:** Was frustrated today though cause of unexpected bugs.
 
 
-**Link to work:** [Link to tweet](https://twitter.com/myorwah/status/1037574801534148608)
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1037574801534148608)
+
+<h2 align="center">
+R1-Day 3: September 7, Wednesday, 2018
+</h2>   
+
+**Today's Progress**: Fixed the bug i intriduced yesterday by separating the block of code and nesting the location enabled logic and location access granted logic. Don't know if this is the best way yet, but got it to work. Also handled network connectivity (this was too long and not striaght forward compared to android, would hopefuly get a better method as time goes on)
+
+**learnt about** 
+- Auto indenting code in xcode using control + I
+- Supposedly how to check for network reachability (didnt go deeper)
+
+**Thoughts:** Was almost lost wihin the code, Not that the code is not well formatted. Then checking for network reachabilty was to me cumbersom in IOS.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1037968901332717568)
+
+
