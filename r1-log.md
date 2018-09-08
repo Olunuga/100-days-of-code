@@ -22,7 +22,7 @@ Had issues after removing pod files from my git repository (error with RealmSwif
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1037281957737111555)
 
 <h2 align="center">
-R1-Day 2: September 6, Wednesday, 2018
+R1-Day 2: September 6, Thursday, 2018
 </h2>   
 
 **Today's Progress**: Added logic to handle location service scenarios such as when it is enabled or disabled, or when location service is denied for the app. Got it to work at first but introduced some bugs, and was also having issues with UIlabel wrapping in auto layout  
@@ -36,10 +36,10 @@ R1-Day 2: September 6, Wednesday, 2018
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1037574801534148608)
 
 <h2 align="center">
-R1-Day 3: September 7, Wednesday, 2018
+R1-Day 3: September 7, Friday, 2018
 </h2>   
 
-**Today's Progress**: Fixed the bug i intriduced yesterday by separating the block of code and nesting the location enabled logic and location access granted logic. Don't know if this is the best way yet, but got it to work. Also handled network connectivity (this was too long and not striaght forward compared to android, would hopefuly get a better method as time goes on)
+**Today's Progress**: Fixed the bug i introduced yesterday by separating the block of code and nesting the location enabled logic and location access granted logic. Don't know if this is the best way yet, but got it to work. Also handled network connectivity (this was too long and not striaght forward compared to android, would hopefuly get a better method as time goes on)
 
 **learnt about** 
 - Auto indenting code in xcode using control + I
@@ -48,5 +48,19 @@ R1-Day 3: September 7, Wednesday, 2018
 **Thoughts:** Was almost lost wihin the code, Not that the code is not well formatted. Then checking for network reachabilty was to me cumbersom in IOS.
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1037968901332717568)
+
+<h2 align="center">
+R1-Day 4: September 8, Saturday, 2018
+</h2>   
+
+**Today's Progress**: Worked on opening weather details using segue from another viewController, Added new views to the storyboard and fixed the bug occured when navigating back from weather details viewController. 
+
+
+**learnt about** 
+- Methods of passing data between viewControllers
+
+**Thoughts:** Felt like i didn't do much today, but closed out a github issue today though. I am also supposed to learn aboout passing data accross viewControllers
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1038429084051759104) 
 
 
