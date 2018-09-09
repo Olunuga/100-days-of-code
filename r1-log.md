@@ -57,10 +57,26 @@ R1-Day 4: September 8, Saturday, 2018
 
 
 **learnt about** 
-- Methods of passing data between viewControllers
+- Methods of passing data between viewControllers (using instance property, delegation pattern, instance function, NotificationCenter(broadcast in android :-)), closure ) https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
 
 **Thoughts:** Felt like i didn't do much today, but closed out a github issue today though. I am also supposed to learn aboout passing data accross viewControllers
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1038429084051759104) 
+
+<h2 align="center">
+R1-Day 5: September 9, Sunday, 2018
+</h2>   
+
+**Today's Progress**: Closed out an issue where the local repository cannot fetch data by location. Added migration to realm database. Saved users last known location using Userdefaults (kinda like sharedprefernces in android) and updated the realm query to filter by last used location.
+
+
+**learnt about** 
+- Revisted using UserDefaults and Realm query and Migration
+
+**Thoughts:** Same as yesterday, Need to set higher goals.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1038429084051759104) 
+
+https://github.com/Olunuga/weda-ios/tree/e00b87660be110723df90afcdace1f654a18a8c2
 
 
