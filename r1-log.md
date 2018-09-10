@@ -77,6 +77,20 @@ R1-Day 5: September 9, Sunday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1038429084051759104) 
 
-https://github.com/Olunuga/weda-ios/tree/e00b87660be110723df90afcdace1f654a18a8c2
+
+<h2 align="center">
+R1-Day 6: September 10, Monday, 2018
+</h2>   
+
+**Today's Progress**: Closed out anoher issue Yayi! Worked on making user set their preferred location and use this when next they open the app untill they choose to use GPS
+
+
+**learnt about** 
+- More on UserDefaults
+- Also revisted Alert and Alert action.
+
+**Thoughts:** No thoughts for today.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1039063649694957569) 
 
 
