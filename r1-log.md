@@ -99,8 +99,8 @@ R1-Day 7: September 12, Wednesday, 2018
 </h2>   
 
 **Today's Progress**: Closed out issue with deleting stale data which delete valid date data too when user is offline for days, instead deleting just the old ones. Which close out another issue. Next i would love to 
-[ ] refactor the code by moving the logic to the view model
-[ ]convert location to using lat and long
+ [ ] refactor the code by moving the logic to the view model
+ [ ] convert location to using lat and long
 
 
 **learnt about** 
