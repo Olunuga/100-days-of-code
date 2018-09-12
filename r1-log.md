@@ -94,3 +94,24 @@ R1-Day 6: September 10, Monday, 2018
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1039063649694957569) 
 
 
+<h2 align="center">
+R1-Day 7: September 12, Wednesday, 2018
+</h2>   
+
+**Today's Progress**: Closed out issue with deleting stale data which delete valid date data too when user is offline for days, instead deleting just the old ones. Which close out another issue. Next i would love to 
+[ ] refactor the code by moving the logic to the view model
+[ ]convert location to using lat and long
+
+
+**learnt about** 
+- Date compasrism
+- Date components.
+
+**Thoughts:** Couldn't test the app on my device because i back dated the phone which cause debug profile to fail and somehow couldnt do it on emulator too : this is kinda crazy though.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1039740897490075648) 
+
+
+
+
+
