@@ -112,6 +112,20 @@ R1-Day 7: September 12, Wednesday, 2018
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1039740897490075648) 
 
 
+<h2 align="center">
+R1-Day 8: September 13, Wednesday, 2018
+</h2>   
+
+**Today's Progress**: Just battled with adding a new plugin to podFile in this case i added cocoapd-keys plugin to handle secrete keys in other not to commit them to VCS. 
+
+**learnt about** 
+- CocoaPod plugins
+- Ways of saving api keys.
+- How to solve some build issue by deleting xcode derivedData folder.
+
+**Thoughts:**  I need to start planning ahead what to the next day so that i won't be stuck thinking about what to do while time is running out.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1040148287431630848) 
 
 
 
