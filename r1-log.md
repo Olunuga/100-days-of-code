@@ -131,7 +131,7 @@ Implement this https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-d
 
 
 <h2 align="center">
-R1-Day 8: September 13, Wednesday, 2018
+R1-Day 9: September 14, Wednesday, 2018
 </h2>   
 
 **Today's Progress**: Did further work in setting up build configurations using Configuration setting files instead of cocoa-pod keys (good to have knowledge of both though). Did a set up for Release, development and debug configs. Should be setting up AppCenter for build automation on github.
