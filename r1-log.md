@@ -130,4 +130,21 @@ R1-Day 8: September 13, Wednesday, 2018
 Implement this https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356 next instead of using cocoapad-keys -[ ] done
 
 
+<h2 align="center">
+R1-Day 8: September 13, Wednesday, 2018
+</h2>   
+
+**Today's Progress**: Did further work in setting up build configurations using Configuration setting files instead of cocoa-pod keys (good to have knowledge of both though). Did a set up for Release, development and debug configs. Should be setting up AppCenter for build automation on github.
+
+**learnt about** 
+- How to use Configuration setting files from [HackerNoon](https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356)
+- Setting up Scheme for different build configurations
+
+**Thoughts:**  Enjoyed today, :-) maybe because i leant something new or that i think is new.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1040508450965532672) 
+
+
+
+
 
