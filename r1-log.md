@@ -144,6 +144,24 @@ R1-Day 9: September 14, Friday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1040508450965532672) 
 
+<h2 align="center">
+R1-Day 10: September 15, Sarturday, 2018
+</h2>   
+
+**Today's Progress**:  Spent much time (Think wasted ) watching some tutrials on youtube when all i had to was 
+`let view = UIView()
+view.backgroundColor = UIColor(white: 1, alpha : 0.5)`
+Sha complteted changing the background of a selected cell and fixed deleting weather data by location
+
+**learnt about** 
+- UIView class
+- UIColor
+- Also some videos on youtube on how to add subviews with NIB.
+
+**Thoughts:**  Felt i wasyed much time today watching youtube video tutorials.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1040957521526177793) 
+
 
 
 
