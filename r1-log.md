@@ -158,9 +158,22 @@ Sha complteted changing the background of a selected cell and fixed deleting wea
 - UIColor
 - Also some videos on youtube on how to add subviews with NIB.
 
-**Thoughts:**  Felt i wasyed much time today watching youtube video tutorials.
+**Thoughts:**  Felt i wasted much time today watching youtube video tutorials.
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1040957521526177793) 
+
+<h2 align="center">
+R1-Day 11: September 17, Monday, 2018
+</h2>   
+
+**Today's Progress**: Skipped another day, was kind of stuck on what to do next. Ended up deciding to start cloning major apps (Crazy right). Created a new project with the tabbed navigation controller and added major icons.
+
+**learnt about** 
+- Tabbed Navigation Controller
+
+**Thoughts:**  followed the saying set your goals high.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1041745099191988224) 
 
 
 
