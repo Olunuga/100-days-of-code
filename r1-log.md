@@ -171,7 +171,7 @@ R1-Day 11: September 17, Monday, 2018
 **learnt about** 
 - Tabbed Navigation Controller
 
-**Thoughts:**  followed the saying set your goals high.
+**Thoughts:**  followed the saying "set your goals high."
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1041745099191988224) 
 
