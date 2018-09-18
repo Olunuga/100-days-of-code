@@ -175,6 +175,20 @@ R1-Day 11: September 17, Monday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1041745099191988224) 
 
+<h2 align="center">
+R1-Day 12: September 18, Monday, 2018
+</h2>   
+
+**Today's Progress**: Continued on the Medium app clone. Created the simple story cells and populated the UItbaleView with it. Setting up the layout was a bit difficult, still needs some more depth on auto layout.
+
+**learnt about** 
+- More on UITableView
+- How to set TableView separator color
+
+**Thoughts:**  No thougts
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1041967866592014336) 
+
 
 
 
