@@ -190,6 +190,22 @@ R1-Day 12: September 18, Monday, 2018
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1041967866592014336) 
 
 
+<h2 align="center">
+R1-Day 13: September 19, Monday, 2018
+</h2>   
+
+**Today's Progress**: Created multiple row type SwipeableCell and WideCell in the UITableView to handle the compact cards. Added MaterialComponent Card for the collectinView Cell.
+
+**learnt about** 
+- Learnt about UICollectionView
+- How to use UICollectionFlowLayoutDelegate to set item size and insets.
+**Thoughts:**  Feels good learning another new thing.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1042321905758425093) 
+
+
+
+
 
 
 
