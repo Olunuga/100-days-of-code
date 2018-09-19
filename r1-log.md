@@ -191,7 +191,7 @@ R1-Day 12: September 18, Monday, 2018
 
 
 <h2 align="center">
-R1-Day 13: September 19, Monday, 2018
+R1-Day 13: September 19, Tuesday, 2018
 </h2>   
 
 **Today's Progress**: Created multiple row type SwipeableCell and WideCell in the UITableView to handle the compact cards. Added MaterialComponent Card for the collectinView Cell.
