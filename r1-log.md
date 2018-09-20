@@ -176,7 +176,7 @@ R1-Day 11: September 17, Monday, 2018
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1041745099191988224) 
 
 <h2 align="center">
-R1-Day 12: September 18, Monday, 2018
+R1-Day 12: September 18, Tuesday, 2018
 </h2>   
 
 **Today's Progress**: Continued on the Medium app clone. Created the simple story cells and populated the UItbaleView with it. Setting up the layout was a bit difficult, still needs some more depth on auto layout.
@@ -191,7 +191,7 @@ R1-Day 12: September 18, Monday, 2018
 
 
 <h2 align="center">
-R1-Day 13: September 19, Tuesday, 2018
+R1-Day 13: September 19, Wednesday, 2018
 </h2>   
 
 **Today's Progress**: Created multiple row type SwipeableCell and WideCell in the UITableView to handle the compact cards. Added MaterialComponent Card for the collectinView Cell.
@@ -203,9 +203,18 @@ R1-Day 13: September 19, Tuesday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1042321905758425093) 
 
+<h2 align="center">
+R1-Day 14: September 20, Thursday, 2018
+</h2>   
 
+**Today's Progress**: Added logic to show and hide title section in the swipe-able cell section by working with the view's constraint. Also added color to view background.
 
+**learnt about** 
+- Constraints and how to use them to modify views
+- UIColor -  initing color using RGB values. 
+**Thoughts:**  Almost did not want to stand up from bird.
 
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1042695470932533248) 
 
 
 
