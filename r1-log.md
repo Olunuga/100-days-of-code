@@ -212,9 +212,22 @@ R1-Day 14: September 20, Thursday, 2018
 **learnt about** 
 - Constraints and how to use them to modify views
 - UIColor -  initing color using RGB values. 
-**Thoughts:**  Almost did not want to stand up from bird.
+**Thoughts:**  Almost did not want to stand up from the bed.
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1042695470932533248) 
 
+<h2 align="center">
+R1-Day 15: September 21, Friday, 2018
+</h2>   
 
+**Today's Progress**: Added buttons to the UITableView cells and intercept it when clicked within the Host ViewController to display menu for each cell. Used delegation pattern. Created a protocol within the cell class and passed action to the host cell.
+
+**learnt about** 
+- More on protocol. Delagation pattern
+- Revisted Enum creation.
+**Thoughts:**  same as yesterday.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1043048346481582080) 
+
+ 
 
