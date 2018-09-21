@@ -223,7 +223,7 @@ R1-Day 15: September 21, Friday, 2018
 **Today's Progress**: Added buttons to the UITableView cells and intercept it when clicked within the Host ViewController to display menu for each cell. Used delegation pattern. Created a protocol within the cell class and passed action to the host cell.
 
 **learnt about** 
-- More on protocol. Delagation pattern
+- More on protocol. Delegation pattern
 - Revisted Enum creation.
 **Thoughts:**  same as yesterday.
 
