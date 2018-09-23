@@ -229,5 +229,18 @@ R1-Day 15: September 21, Friday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1043048346481582080) 
 
+<h2 align="center">
+R1-Day 16: September 22, Sarturday, 2018
+</h2>   
+
+**Today's Progress**: Was occupied today, but made sure i didn't skip it. Added pull to refresh loader using UIRefreshControl and loadmore progress at the UITableViewCell footer. Also worked woth Transition when presnting views.
+
+**learnt about** 
+- Intro to Transitions
+- UIRefreshControl
+**Thoughts:**  Was almost tired..
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1043048346481582080) 
+
  
 
