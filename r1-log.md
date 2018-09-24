@@ -242,5 +242,20 @@ R1-Day 16: September 22, Sarturday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1043048346481582080) 
 
+
+<h2 align="center">
+R1-Day 17: September 24, Monday, 2018
+</h2>   
+
+**Today's Progress**: Added search recent section which includes tableView header view and its contents .
+
+**learnt about** 
+- Loading view with Bundle.main...
+- How to add header view to UITableView
+- How to hide empty cells when the list is short.
+**Thoughts:**  Was tired, but the rules says don't miss two days in a row. glad i didn't..
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1044342393313595393) 
+
  
 
