@@ -257,5 +257,21 @@ R1-Day 17: September 24, Monday, 2018
 
 **Link to work:** [tweet](https://twitter.com/myorwah/status/1044342393313595393) 
 
+
+
+<h2 align="center">
+R1-Day 18: September 29, Saturday, 2018
+</h2>   
+
+**Today's Progress**: Was off for 5 good days :-(. Today, worked on using the same tableView for different data soucre. Added swicthing between suggested search and search history. 
+
+**learnt about** 
+- More on TableView stil
+- Creating xib files
+
+**Thoughts:**  Missed out 5days at a strecth that wasn't funny :-(.
+
+**Link to work:** [tweet](https://twitter.com/myorwah/status/1046097787937583111) 
+
  
 
